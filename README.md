@@ -1,2 +1,7 @@
 # default_hex
-default hex display
+Default hex display in python3
+
+## HowTo
+```python
+import default_hex
+```
